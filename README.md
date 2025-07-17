@@ -22,8 +22,22 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 
 ## 📸 Screenshots
 
-![Main Page](https://github.com/yourusername/Employee-Management-System/blob/main/screenshots/mainpage.jpg)
-![Add Employee](https://github.com/yourusername/Employee-Management-System/blob/main/screenshots/addemployee.jpg)
+
+### ➕ Add Employee Page
+![Add Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add%20emp.png)
+
+### ➕ Add Page
+![Add](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add.png)
+
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/home.png)
+
+### 👁️ View Employee Page
+![View Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view%20emp.png)
+
+### 👁️ View Page
+![View](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view.png)
+
 
 ## Steps to run
 1. Clone the repository
