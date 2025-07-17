@@ -23,17 +23,12 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 ![Main Page](https://github.com/yourusername/Employee-Management-System/blob/main/screenshots/mainpage.jpg)
 ![Add Employee](https://github.com/yourusername/Employee-Management-System/blob/main/screenshots/addemployee.jpg)
 
-## 🛠️ How to Run
-
-```bash
 1. Clone the repository
 2. Run `npm install`
 3. Setup MySQL database and update connection in code
 4. Run `node app.js`
+
 📁 Project Structure
-pgsql
-Copy
-Edit
 /Employee-Management-System
 │
 ├── public/
@@ -41,12 +36,6 @@ Edit
 ├── app.js
 ├── db.js
 └── README.md
-📅 Developed in 2023 | Uploaded for portfolio reference
-yaml
-Copy
-Edit
-
----
 
 ### ✅ Steps to Upload to GitHub:
 1. Go to GitHub and create a new repository (e.g., `Employee-Management-System`)
