@@ -22,6 +22,8 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/home.png)
 
 ### ➕ Add Employee Page
 ![Add Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add%20emp.png)
@@ -29,13 +31,10 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 ### ➕ Add Page
 ![Add](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add.png)
 
-### 🏠 Home Page
-![Home](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/home.png)
-
-### 👁️ View Employee Page
+###  View Employee Page
 ![View Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view%20emp.png)
 
-### 👁️ View Page
+###  View Page
 ![View](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view.png)
 
 
