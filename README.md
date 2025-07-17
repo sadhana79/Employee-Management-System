@@ -25,17 +25,18 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 ### 🏠 Home Page
 ![Home](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/home.png)
 
-### ➕ Add Employee Page
-![Add Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add%20emp.png)
 
 ### ➕ Add Page
 ![Add](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add.png)
 
-###  View Employee Page
-![View Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view%20emp.png)
-
 ###  View Page
 ![View](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view.png)
+
+### ➕ Add Employee Page
+![Add Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/add%20emp.png)
+
+###  View Employee Page
+![View Emp](https://raw.githubusercontent.com/sadhana79/Employee-Management-System/main/view%20emp.png)
 
 
 ## Steps to run
@@ -69,3 +70,5 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/yourusername/Employee-Management-System.git
 git push -u origin main
+
+@ developed by Sadhana Gonge in 2025
