@@ -1,7 +1,7 @@
 # 👨‍💼 Employee Management System
-📅 Developed in 2025 | Uploaded for portfolio reference
+📁 Mini Project | Developed in 2025 using Node.js, Express, MySQL, and EJS.
 
-A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for managing employee records.
+This is a simple CRUD-based employee management system that allows users to **add**, **view**, **update**, and **delete** employee records. It uses EJS for frontend rendering and MySQL for database operations.
 
 ## 🚀 Features
 
