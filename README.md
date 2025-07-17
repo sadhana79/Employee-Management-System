@@ -33,6 +33,7 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 
 /Employee-Management-System
 │
+
 ├── public/
 
 ├── views/
