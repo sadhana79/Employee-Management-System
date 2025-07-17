@@ -15,8 +15,10 @@ A Node.js and MySQL-based CRUD (Create, Read, Update, Delete) application for ma
 - Node.js
 - Express.js
 - MySQL
-- HTML, CSS
+- Ejs
+- CSS
 - Bootstrap (optional)
+  
 
 ## 📸 Screenshots
 
